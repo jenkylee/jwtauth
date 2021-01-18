@@ -1,5 +1,5 @@
 # component-creater
 
 ```
-composer require hyperf/jwtauth
+composer require hyperf/jwt-auth
 ```
